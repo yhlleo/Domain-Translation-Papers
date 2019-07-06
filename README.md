@@ -22,6 +22,7 @@ Collecting typical papers about domain translations.
 |:----:|:-----|:----:|:----:|:----:|
 |StarGAN|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf)|[pytorch](https://github.com/yunjey/stargan)|CVPR|2018|
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
+|FUNIT|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)|[pytorch](https://github.com/NVLabs/FUNIT)|arXiv|2019|
 
 ## 3.Multiple modals
    
