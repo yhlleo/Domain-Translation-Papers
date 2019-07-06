@@ -30,7 +30,7 @@ Collecting typical papers about domain translations.
 |:----:|:-----|:----:|:----:|:----:|
 |BiCycleGAN|[Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf)|[pytorch](https://github.com/junyanz/BicycleGAN)|NIPS|2017|
 
-## 3.2.Unpaired Multi-modal:
+### 3.2.Unpaired Multi-modal:
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |MUNIT|[Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)|[pytorch](https://github.com/NVlabs/MUNIT)|ECCV|2018|
