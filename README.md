@@ -1,7 +1,7 @@
 # Domain-Translation-Papers
 Collecting typical papers about domain translations.
 
-## 1.Paired
+## 1.Paired Two Domains
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
@@ -10,7 +10,7 @@ Collecting typical papers about domain translations.
 
 ## 2.Single modal
 
-### 2.1.Unpaired Two-domain
+### 2.1.Unpaired Two Domains
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
