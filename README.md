@@ -7,27 +7,30 @@ Collecting typical papers about domain translations.
 |:----:|:-----|:----:|:----:|:----:|
 |Pix2Pix|[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)|[torch](https://github.com/phillipi/pix2pix),[pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|CVPR|2017|
 
-## 2.Unpaired two-domain
+## 2.Unpaired Single modal
+
+### 2.1.Two-domain
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |CycleGAN|[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)|[torch](https://github.com/junyanz/CycleGAN),[pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|CVPR|2018|
 |UAG|[Unsupervised Attention-guided Image-to-Image Translation](https://arxiv.org/pdf/1806.02311.pdf)|[tensorflow](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation),[pytorch](https://github.com/yhlleo/uaggan)|NIPS|2018|
 
-## 3.Unpaired multi-domain:
+### 2.2.Multi-domain:
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |StarGAN|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf)|[pytorch](https://github.com/yunjey/stargan)|CVPR|2018|
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
 
+## 3.Unpaired Multiple modals
    
-## 4.Paired Multi-modal:
+### 3.1.Paired Multi-modal:
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |BiCycleGAN|[Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf)|[pytorch](https://github.com/junyanz/BicycleGAN)|NIPS|2017|
 
-## 5.Unpaired Multi-modal:
+## 3.2.Unpaired Multi-modal:
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |MUNIT|[Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)|[pytorch](https://github.com/NVlabs/MUNIT)|ECCV|2018|
