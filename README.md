@@ -6,6 +6,7 @@ Collecting typical papers about domain translations.
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |Pix2Pix|[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)|[torch](https://github.com/phillipi/pix2pix),[pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|CVPR|2017|
+|Pix2PixHD|[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://github.com/NVIDIA/pix2pixHD)|[pytorch](https://github.com/NVIDIA/pix2pixHD)|CVPR|2018|
 
 ## 2.Single modal
 
