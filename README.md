@@ -7,23 +7,23 @@ Collecting typical papers about domain translations.
 |:----:|:-----|:----:|:----:|:----:|
 |Pix2Pix|[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)|[torch](https://github.com/phillipi/pix2pix),[pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|CVPR|2017|
 
-## 2.Unpaired Single modal
+## 2.Single modal
 
-### 2.1.Two-domain
+### 2.1.Unpaired Two-domain
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |CycleGAN|[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)|[torch](https://github.com/junyanz/CycleGAN),[pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|CVPR|2018|
 |UAG|[Unsupervised Attention-guided Image-to-Image Translation](https://arxiv.org/pdf/1806.02311.pdf)|[tensorflow](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation),[pytorch](https://github.com/yhlleo/uaggan)|NIPS|2018|
 
-### 2.2.Multi-domain:
+### 2.2.Unpaired Multi-domain:
 
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |StarGAN|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf)|[pytorch](https://github.com/yunjey/stargan)|CVPR|2018|
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
 
-## 3.Unpaired Multiple modals
+## 3. Multiple modals
    
 ### 3.1.Paired Multi-modal:
 |Name|Paper|Code|Publisher|Year|
