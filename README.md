@@ -23,7 +23,7 @@ Collecting typical papers about domain translations.
 |StarGAN|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf)|[pytorch](https://github.com/yunjey/stargan)|CVPR|2018|
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
 
-## 3. Multiple modals
+## 3.Multiple modals
    
 ### 3.1.Paired Multi-modal:
 |Name|Paper|Code|Publisher|Year|
