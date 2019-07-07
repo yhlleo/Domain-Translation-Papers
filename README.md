@@ -1,5 +1,5 @@
 # Domain-Translation-Papers
-Collecting typical papers about domain translations.
+Collecting typical papers about image domain translations.
 
 ## 1.Paired Two Domains
 
