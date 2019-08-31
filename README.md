@@ -38,3 +38,6 @@ Collecting typical papers about domain translations.
 |MUNIT|[Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)|[pytorch](https://github.com/NVlabs/MUNIT)|ECCV|2018|
 |CDD|[Image-to-image translation for cross-domain disentanglement](https://arxiv.org/pdf/1805.09730.pdf)|[tensorflow](https://github.com/agonzgarc/cross-domain-disen)|NIPS|2018|
 |Augmented CycleGAN|[Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/pdf/1802.10151.pdf)|[pytorch](https://github.com/aalmah/augmented_cyclegan)|ICML|2018|
+|SMIT|[SMIT: Stochastic Multi-Label Image-to-Image Translation](https://arxiv.org/pdf/1812.03704.pdf)|-|arXiv|2018|
+|DRIT|[Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1808.00948.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|ECCV|2018|
+|DRIT++|[DRIT++: Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1905.01270.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|arXiv|2019|
