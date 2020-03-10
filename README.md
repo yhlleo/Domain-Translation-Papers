@@ -26,6 +26,7 @@ Collections of typical papers about image domain translation.
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
 |FUNIT|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)|[pytorch](https://github.com/NVLabs/FUNIT)|arXiv|2019|
 |UGAN|[UGAN: Untraceable GAN for Multi-Domain Face Translation](https://arxiv.org/pdf/1907.11418.pdf)|-|arXiv|2019|
+|StyleGAN2|[StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)|[code](https://github.com/EvgenyKashin/stylegan2-distillation)|arXiv|2020|
 
 ## 2.Multiple modals
    
