@@ -43,3 +43,4 @@ Collections of typical papers about image domain translation.
 |SMIT|[SMIT: Stochastic Multi-Label Image-to-Image Translation](https://arxiv.org/pdf/1812.03704.pdf)|-|arXiv|2018|
 |DRIT|[Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1808.00948.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|ECCV|2018|
 |DRIT++|[DRIT++: Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1905.01270.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|arXiv|2019|
+|StarGAN v2|[StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865)|[pytorch](https://github.com/clovaai/stargan-v2)|CVPR|2020|
