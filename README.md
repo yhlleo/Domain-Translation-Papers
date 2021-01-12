@@ -25,7 +25,7 @@ Collections of typical papers about image domain translation.
 |GANimation|[GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/pdf/1807.09251.pdf)|[pytorch](https://github.com/albertpumarola/GANimation)|ECCV|2018|
 |FUNIT|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)|[pytorch](https://github.com/NVLabs/FUNIT)|ICCV|2019|
 |UGAN|[UGAN: Untraceable GAN for Multi-Domain Face Translation](https://arxiv.org/pdf/1907.11418.pdf)|-|arXiv|2019|
-|StyleGAN2|[StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)|[code](https://github.com/EvgenyKashin/stylegan2-distillation)|arXiv|2020|
+
 
 ## 4.Multiple modals
    
@@ -55,6 +55,7 @@ Collections of typical papers about image domain translation.
 |Name|Paper|Code|Publisher|Year|
 |:----:|:-----|:----:|:----:|:----:|
 |Image2StyleGAN|[Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.pdf)|-|ICCV|2019|
+|StyleGAN2|[StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)|[code](https://github.com/EvgenyKashin/stylegan2-distillation)|arXiv|2020|
 |InterFaceGAN|[InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf)|[pytorch](https://github.com/genforce/interfacegan)|TPAMI & CVPR| 2020|
 |StyleRig (3D)|[StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.pdf)|-|CVPR|2020|
 |PSP|[Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/pdf/2008.00951.pdf)|[pytorch](https://github.com/eladrich/pixel2style2pixel)|arXiv|2020|
