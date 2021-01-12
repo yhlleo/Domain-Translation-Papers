@@ -46,6 +46,7 @@ Collections of typical papers about image domain translation.
 |HLSI|[Homomorphic Latent Space Interpolation for Unpaired Image-to-image Translation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.pdf)|-|CVPR|2019|
 |StarGAN v2|[StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865)|[pytorch](https://github.com/clovaai/stargan-v2)|CVPR|2020|
 |GMM-UNIT|[GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image Translation via Attribute Gaussian Mixture Modeling](https://arxiv.org/pdf/2003.06788.pdf)|-|arXiv|2020|
+|RG-UNIT|[Retrieval Guided Unsupervised Multi-domain Image to Image Translation](https://arxiv.org/pdf/2008.04991.pdf)|[pytorch](https://github.com/yhlleo/RG-UNIT)|ACM MM|2020|
 |TUNIT|[Rethinking the Truly Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2006.06500.pdf)|[pytorch](https://github.com/clovaai/tunit)|arXiv|2020|
 
 
