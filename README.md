@@ -1,4 +1,4 @@
-# Domain-Translation-Papers
+# Image-Domain-Translation-Papers
 Collections of typical papers about image domain translation.
 
 
