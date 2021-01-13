@@ -44,6 +44,7 @@ Collections of typical papers about image domain translation.
 |DRIT|[Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1808.00948.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|ECCV|2018|
 |DRIT++|[DRIT++: Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1905.01270.pdf)|[pytorch](https://github.com/HsinYingLee/DRIT)|arXiv|2019|
 |HLSI|[Homomorphic Latent Space Interpolation for Unpaired Image-to-image Translation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.pdf)|-|CVPR|2019|
+|ReDO|[Unsupervised Object Segmentation by Redrawing](https://papers.nips.cc/paper/2019/file/32bbf7b2bc4ed14eb1e9c2580056a989-Paper.pdf)|[pytorch](https://github.com/mickaelChen/ReDO)|NIPS|2019|
 |StarGAN v2|[StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865)|[pytorch](https://github.com/clovaai/stargan-v2)|CVPR|2020|
 |GMM-UNIT|[GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image Translation via Attribute Gaussian Mixture Modeling](https://arxiv.org/pdf/2003.06788.pdf)|-|arXiv|2020|
 |RG-UNIT|[Retrieval Guided Unsupervised Multi-domain Image to Image Translation](https://arxiv.org/pdf/2008.04991.pdf)|[pytorch](https://github.com/yhlleo/RG-UNIT)|ACM MM|2020|
