@@ -60,6 +60,7 @@ Collections of typical papers about image domain translation.
 |InterFaceGAN|[InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf)|[pytorch](https://github.com/genforce/interfacegan)|TPAMI & CVPR| 2020|
 |StyleRig (3D)|[StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.pdf)|-|CVPR|2020|
 |PSP|[Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/pdf/2008.00951.pdf)|[pytorch](https://github.com/eladrich/pixel2style2pixel)|arXiv|2020|
+|ALAE|[Adversarial Latent Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf)|[pytorch](https://github.com/podgorskiy/ALAE)|CVPR|2020|
 
 
 ## 6.Others
