@@ -49,7 +49,7 @@ Collections of typical papers about image domain translation.
 |GMM-UNIT|[GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image Translation via Attribute Gaussian Mixture Modeling](https://arxiv.org/pdf/2003.06788.pdf)|-|arXiv|2020|
 |RG-UNIT|[Retrieval Guided Unsupervised Multi-domain Image to Image Translation](https://arxiv.org/pdf/2008.04991.pdf)|[pytorch](https://github.com/yhlleo/RG-UNIT)|ACM MM|2020|
 |TUNIT|[Rethinking the Truly Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2006.06500.pdf)|[pytorch](https://github.com/clovaai/tunit)|arXiv|2020|
-
+|Smoothing|[Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Smoothing_the_Disentangled_Latent_Style_Space_for_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf)|[pytorch](https://github.com/yhlleo/SmoothingLatentSpace)|CVPR|2021|
 
 ## 5.StyleGAN-based
 
@@ -61,6 +61,10 @@ Collections of typical papers about image domain translation.
 |StyleRig (3D)|[StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.pdf)|-|CVPR|2020|
 |PSP|[Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/pdf/2008.00951.pdf)|[pytorch](https://github.com/eladrich/pixel2style2pixel)|arXiv|2020|
 |ALAE|[Adversarial Latent Autoencoders](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf)|[pytorch](https://github.com/podgorskiy/ALAE)|CVPR|2020|
+|StyleClip|[StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)|[pytorch](https://github.com/orpatashnik/StyleCLIP)|arXiv|2021|
+|StyleFlow|[StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional](https://dl.acm.org/doi/10.1145/3447648)|[pytorch](https://github.com/RameenAbdal/StyleFlow)|SIGGRAPH|2021|
+|PULSE|[PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/pdf/2003.03808.pdf)|[pytorch](https://arxiv.org/pdf/2003.03808.pdf)|CVPR|2020|
+|GLEAN|[GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)|[pytorch](https://github.com/ckkelvinchan/GLEAN)|CVPR|2021|
 
 
 ## 6.Others
